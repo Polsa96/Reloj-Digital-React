@@ -1,0 +1,16 @@
+.active{
+    padding:5vw;
+    font-weight: bold;
+    text-decoration: underline;
+    /* color:whitesmoke; */
+    color:#ffa500;
+    text-transform: uppercase;
+  }
+  
+  .inactive{
+    padding:5vw;
+    /* color:whitesmoke; */
+    color:#ffa500;
+    text-transform: uppercase;
+  }
+  
